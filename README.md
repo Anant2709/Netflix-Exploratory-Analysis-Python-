@@ -7,6 +7,11 @@ The questions I wish to answer are:
 1. What was the trend durations of films in the 1990s
 2. Since I am an action movie fanatic, I know now that most of the action movies made are long and have well developed plots with long action sequences. I wish to see if this hypothesis of mine is right currently and if it is, then has it always been the case. 
 
+The tools that I used to resolve these questions are:
+1. Python data sctructure fundamentals
+2. Matplotlib
+3. Pandas Dataframes
+   
 The dataset I am working with is `netflix_data.csv`, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
 
 ## The data
